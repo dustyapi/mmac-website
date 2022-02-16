@@ -24,7 +24,7 @@ return(
 </div>
 <div className='gif_div2'>
 <h1>Mischievous Mini Ape Club</h1>
-<p>3333 Unique Mini Apes ruling Solana Island. 🏝</p>
+<p>1111 Unique Mini Apes ruling Solana Island. 🏝</p>
 </div>
 </div>
 </div>
@@ -142,7 +142,7 @@ Dr Enny had become so fixated by his evolved creation that he did not notice the
   <Accordion.Item eventKey="1" style={{marginBottom:"10px",borderRadius:"5px"}}>
     <Accordion.Header style={{fontSize:"18px"}}>How many Mini Ape NFTs will there be?</Accordion.Header>
     <Accordion.Body style={{color:"black",fontSize:"16px",textAlign:"left",borderRadius:"5px"}}>
-    - There are a total of 3333 Mini Apes. 
+    - There are a total of 1111 Mini Apes. 
     </Accordion.Body>
   </Accordion.Item>
   <Accordion.Item eventKey="2" style={{marginBottom:"10px",borderRadius:"5px"}}>
